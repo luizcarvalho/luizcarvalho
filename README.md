@@ -23,6 +23,9 @@
   <a href="https://luizcarvalho.com" target="_blank">
     <img src="https://img.shields.io/badge/Site-333333?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank">
   </a>
+  <a href="https://pt.stackoverflow.com/users/292/luiz-carvalho?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
+  </a>  
   <a href="https://instagram.com/luizcarvalhobr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/LuizCarvalho" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
