@@ -26,13 +26,13 @@
   <a href="https://pt.stackoverflow.com/users/292/luiz-carvalho?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/-StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
   </a>  
+  <a href="https://medium.com/@luizcarvalho" target="_blank">
+    <img src="https://img.shields.io/badge/-Meidum-CCCCCC?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+  </a>  
   <a href="https://instagram.com/luizcarvalhobr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/LuizCarvalho" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
  </a>
-  <a href = "mailto:contato@luizcarvalho.com">
-    <img src="https://img.shields.io/badge/-Gmail-%DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.linkedin.com/in/luizcarvalhodev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
