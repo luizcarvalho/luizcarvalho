@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
   </a>  
   <a href="https://medium.com/@luizcarvalho" target="_blank">
-    <img src="https://img.shields.io/badge/-Meidum-CCCCCC?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-CCCCCC?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>  
   <a href="https://instagram.com/luizcarvalhobr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/LuizCarvalho" target="_blank">
