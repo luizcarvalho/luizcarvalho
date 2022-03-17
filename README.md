@@ -40,6 +40,13 @@
   ![Snake animation](https://github.com/luizcarvalho/luizcarvalho/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<ul>
+  <li>Editor favorito: VS Code</li>
+  <li>Primeiro Computador: Intel Pentium Celeron 900MHz, 128 MB, 40GB (2004)</li>
+  <li>Primeira Linguagem: (2004) Ruby (RGSS)</li>
+  <li></li>
+<ul>
   
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=luizcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="luizcarvalho" /> 
